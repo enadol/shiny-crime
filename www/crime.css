@@ -1,0 +1,23 @@
+body{
+
+	font-family: calibri;
+ }
+
+h2{
+  
+  text-align: center;
+  color: #163466;
+}
+
+h4{
+  color: #163466;
+}
+
+.shiny-input-container{
+  
+  color: #163466;
+}
+
+.shiny-bound-input, .help-block, select{
+  color:#163466;
+}
